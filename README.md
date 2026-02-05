@@ -71,40 +71,4 @@ I enjoy solving complex problems, designing clean architectures, and continuousl
 </tr>
 </table>
 
-## 📂 Featured Projects
-
-🔹 **Nearby_Search_Service**
-- Backend service to find nearby locations efficiently based on user coordinates
-- Focus on performance, scalability, and clean API design
-- Implements distance calculations and optimized search strategies  
-👉 *Tech:* Java, Spring Boot, REST APIs, System Design
-
-🔹 **DB Contention & Concurrency Project**
-- Demonstrates database contention scenarios and concurrency handling
-- Explores locking, transactions, and performance bottlenecks
-- Focused on understanding real-world database behavior under load  
-👉 *Tech:* Java, SQL, Transactions, Concurrency
-
-🔹 **Design Patterns**
-- Java implementations of GoF design patterns
-- Emphasis on real-world use cases and clean architecture  
-👉 *Tech:* Java, OOP, Design Principles
-
-🔹 **System Design**
-- System design notes and examples
-- Covers scalability, APIs, data modeling, and architecture trade-offs  
-👉 *Tech:* Backend Architecture, High-Level Design
-
-🔹 **Portfolio Website**
-- Personal portfolio showcasing projects and experience  
-👉 *Tech:* HTML, CSS, JavaScript
----
-
-## 🎯 Current Focus
-- Advanced **system design**
-- Building production-ready backend services
-- Preparing for **senior full-stack / Lead roles**
-
----
-
 ⭐️ *I believe in writing code that is simple, scalable, and easy to reason about.*
