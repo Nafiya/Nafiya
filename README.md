@@ -5,35 +5,71 @@
 I’m a passionate software engineer with **7+ years of experience** building scalable backend systems and modern web applications.  
 I enjoy solving complex problems, designing clean architectures, and continuously sharpening my problem-solving skills.
 
----
+<h2>🧠 Tech Stack</h2>
 
-## 🧠 Tech Stack
+<table>
+<tr>
+<td valign="top">
 
-| Backend & Architecture | Frontend |
-|------------------------|----------|
-| Java                   | Angular  |
-| Spring Boot            | TypeScript |
-| Microservices          | HTML, CSS |
-| REST APIs              | JavaScript |
-| Hibernate / JPA        |          |
-| System Design          |          |
-| Design Patterns        |          |
+<table>
+<tr><th>Backend</th></tr>
+<tr><td>Java</td></tr>
+<tr><td>Spring Boot</td></tr>
+<tr><td>Microservices</td></tr>
+<tr><td>REST APIs</td></tr>
+<tr><td>Hibernate / JPA</td></tr>
+<tr><td>System Design</td></tr>
+<tr><td>Design Patterns</td></tr>
+</table>
 
-| Databases | Cloud & DevOps |
-|-----------|----------------|
-| MySQL     | Azure          |
-| PostgreSQL| Docker (Basics)|
-| Redis     | Git, GitHub    |
-|           | CI/CD          |
+</td>
+<td valign="top">
 
-| Practices |
-|-----------|
-| Agile / Scrum |
-| Clean Code, SOLID |
-| Performance Optimization |
-| Test-driven Development |
+<table>
+<tr><th>Frontend</th></tr>
+<tr><td>Angular</td></tr>
+<tr><td>TypeScript</td></tr>
+<tr><td>HTML</td></tr>
+<tr><td>CSS</td></tr>
+<tr><td>JavaScript</td></tr>
+</table>
 
----
+</td>
+<td valign="top">
+
+<table>
+<tr><th>Databases</th></tr>
+<tr><td>MySQL</td></tr>
+<tr><td>PostgreSQL</td></tr>
+<tr><td>Redis</td></tr>
+</table>
+
+</td>
+<td valign="top">
+
+<table>
+<tr><th>Cloud & DevOps</th></tr>
+<tr><td>Azure</td></tr>
+<tr><td>Docker (Basics)</td></tr>
+<tr><td>Git & GitHub</td></tr>
+<tr><td>CI/CD</td></tr>
+</table>
+
+</td>
+<td valign="top">
+
+<table>
+<tr><th>Practices</th></tr>
+<tr><td>Agile / Scrum</td></tr>
+<tr><td>Clean Code</td></tr>
+<tr><td>SOLID</td></tr>
+<tr><td>Performance</td></tr>
+<tr><td>TDD</td></tr>
+</table>
+
+</td>
+</tr>
+</table>
 
 ## 📂 Featured Projects
 
