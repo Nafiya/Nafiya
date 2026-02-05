@@ -9,39 +9,49 @@ I enjoy solving complex problems, designing clean architectures, and continuousl
 
 ## 🧠 Tech Stack
 
-**Backend**
-- Java, Spring Boot, Microservices
-- REST APIs, Hibernate / JPA
-- NodeJs, Express
-- GraphQL
-- System Design, Design Patterns
+| Backend & Architecture | Frontend |
+|------------------------|----------|
+| Java                   | Angular  |
+| Spring Boot            | TypeScript |
+| Microservices          | HTML, CSS |
+| REST APIs              | JavaScript |
+| Hibernate / JPA        |          |
+| System Design          |          |
+| Design Patterns        |          |
 
-**Frontend**
-- Angular, TypeScript
-- HTML, CSS, JavaScript
+| Databases | Cloud & DevOps |
+|-----------|----------------|
+| MySQL     | Azure          |
+| PostgreSQL| Docker (Basics)|
+| Redis     | Git, GitHub    |
+|           | CI/CD          |
 
-**Databases**
-- MySQL, PostgreSQL
-- Redis (Basics)
-- MongoDB, Cassandra
-
-**Cloud & DevOps**
-- Azure
-- Docker, Kubernetes
-- Git, GitHub, CI/CD
-
-**Practices**
-- Agile / Scrum
-- Clean Code, SOLID principles
-- Test-driven & performance-focused development
+| Practices |
+|-----------|
+| Agile / Scrum |
+| Clean Code, SOLID |
+| Performance Optimization |
+| Test-driven Development |
 
 ---
 
 ## 📂 Featured Projects
 
+🔹 **Nearby_Search_Service**
+- Backend service to find nearby locations efficiently based on user coordinates
+- Focus on performance, scalability, and clean API design
+- Implements distance calculations and optimized search strategies  
+👉 *Tech:* Java, Spring Boot, REST APIs, System Design
+
+🔹 **DB Contention & Concurrency Project**
+- Demonstrates database contention scenarios and concurrency handling
+- Explores locking, transactions, and performance bottlenecks
+- Focused on understanding real-world database behavior under load  
+👉 *Tech:* Java, SQL, Transactions, Concurrency
+
 🔹 **Design Patterns**
 - Java implementations of GoF design patterns
-- Focus on real-world use cases and clean architecture  
+- Emphasis on real-world use cases and clean architecture  
 👉 *Tech:* Java, OOP, Design Principles
 
 🔹 **System Design**
@@ -52,7 +62,6 @@ I enjoy solving complex problems, designing clean architectures, and continuousl
 🔹 **Portfolio Website**
 - Personal portfolio showcasing projects and experience  
 👉 *Tech:* HTML, CSS, JavaScript
-
 ---
 
 ## 🎯 Current Focus
