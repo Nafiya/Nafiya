@@ -62,11 +62,4 @@ I enjoy solving complex problems, designing clean architectures, and continuousl
 
 ---
 
-## 🌍 Connect With Me
-- 💼 LinkedIn: *(add your LinkedIn URL here)*
-- 🌐 Portfolio: *(add portfolio link if you want)*
-- 📧 Email: *(optional)*
-
----
-
 ⭐️ *I believe in writing code that is simple, scalable, and easy to reason about.*
