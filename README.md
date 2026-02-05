@@ -42,6 +42,8 @@ I enjoy solving complex problems, designing clean architectures, and continuousl
 <tr><td>MySQL</td></tr>
 <tr><td>PostgreSQL</td></tr>
 <tr><td>Redis</td></tr>
+<tr><td>MongoDB</td></tr>
+<tr><td>Cassandra</td></tr>
 </table>
 
 </td>
@@ -52,6 +54,7 @@ I enjoy solving complex problems, designing clean architectures, and continuousl
 <tr><td>Azure</td></tr>
 <tr><td>Docker (Basics)</td></tr>
 <tr><td>Git & GitHub</td></tr>
+<tr><td>Kafka</td></tr>
 <tr><td>CI/CD</td></tr>
 </table>
 
