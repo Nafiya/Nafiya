@@ -2,7 +2,7 @@
 
 🚀 **Senior Java / Full-Stack Developer** | Spring Boot | Angular | System Design | Cloud  
 
-I’m a passionate software engineer with **7+ years of experience** building scalable backend systems and modern web applications.  
+I’m a passionate software engineer with **8+ years of experience** building scalable backend systems and modern web applications.  
 I enjoy solving complex problems, designing clean architectures, and continuously sharpening my problem-solving skills.
 
 <h2>🧠 Tech Stack</h2>
